@@ -1,0 +1,26 @@
+{
+  "name": "minha_oferta",
+  "version": "0.1.0",
+  "description": "Social market sales",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Orbware/MinhaOferta.git"
+  },
+  "author": "Italo Goncales",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/Orbware/MinhaOferta/issues"
+  },
+  "homepage": "https://github.com/Orbware/MinhaOferta#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  },
+  "devDependencies": {
+    "nodemon": "^1.15.1"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "_ObjectName": "Sale",
+    "Id": "d39b0f8ec2a5e41f4356b8dbd8a36338",
+    "Name":"Detergente Ypê Neutro",
+    "Brand": "Ypê",
+    "Price": 1.45,
+    "Category": "Produtos de Limpeza",
+    "Description": null,
+    "Location": { "MapsObject": null },
+    "User": { "UserObject": "Who added this sale" },
+    "Comments": [{ "CommentObject": null }],
+    "Ratings": [{ "RatingObject": null }],
+    "Status": "Active",
+    "Timestamp": "2018-03-12T17:00:00",
+    "AvailableUntil": null
+}
